@@ -6,4 +6,4 @@ function greet(name, lastName) {
 let userName = prompt('Please, Whats your name?');
 let userLastName = prompt('And your last name?');
 
-greet('Ernesto', 'Trujillo');
+greet(userName, userLastName);
